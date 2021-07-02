@@ -34,6 +34,6 @@ npm init to install package.json
 npm i to install dependencies
 npm start or node server.js to start server on localhost:3000
 
-Deployed to Heroku:
+Deployed to Heroku:https://red-canoe-34731.herokuapp.com/
 
-Screenshot:
+Screenshot:![Screenshot (40)](https://user-images.githubusercontent.com/78382681/124208828-68acf300-dab6-11eb-81ae-7e9f9fb67289.png)
